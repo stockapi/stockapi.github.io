@@ -1,0 +1,89 @@
+baseURL: "https://stockapi.github.io/"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+title: "StockAPI"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "StockAPI"
+  description: "A melhor API de dados da bolsa de valores"
+  images: 
+    - "images/hero-image.png"
+
+  logo: "arrow-up.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    dribbble: "#"
+    instagram: "#"
+    facebook: "#"
+    twitter: "#"
+
+  location:
+    - "Joinville/SC"
+
+  contact:
+    - "contato@stockapi.com.br"
+
+  copyright: "© 2022 StockAPI All Rights Reserved"
+
+menus:
+  main:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "How we work"
+      url: "/#"
+      weight: 2
+
+    - name: "Our team"
+      url: "/#"
+      weight: 3
+
+    - name: "Pricing"
+      url: "/#"
+      weight: 4
+
+    - name: "Blog"
+      url: "/blog"
+      weight: 5
+
+  buttons:
+    - name: "Agendar ligação"
+      url: "/#"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "How we work"
+      url: "/#"
+      weight: 2
+
+    - name: "Our team"
+      url: "/#"
+      weight: 3
+
+    - name: "Pricing"
+      url: "/#"
+      weight: 4
+
+    - name: "Blog"
+      url: "/blog"
+      weight: 5
+
+taxonomies:
+  series: "series"
+  tags: "tags"
