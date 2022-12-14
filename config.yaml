@@ -3,6 +3,7 @@ theme: "up-business-theme"
 languageCode: "en-us"
 
 title: "StockAPI"
+publishDir: "docs"
 
 # googleAnalytics: ""
 
