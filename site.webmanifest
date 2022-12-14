@@ -1,6 +1,6 @@
 {
-  "name": "Up Business",
-  "short_name": "Up Business",
+  "name": "StockAPI",
+  "short_name": "StockAPI",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
