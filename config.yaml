@@ -2,15 +2,15 @@ baseURL: "https://www.example.com/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "Up Business"
+title: "StockAPI"
 
 # googleAnalytics: ""
 
 summaryLength: 20
 
 params:
-  title: "Up Business"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+  title: "StockAPI"
+  description: "A melhor API de dados da bolsa de valores"
   images: 
     - "images/hero-image.png"
 
@@ -28,14 +28,12 @@ params:
     twitter: "#"
 
   location:
-    - "3891 Ranchview Dr. Richardson, California 62639"
-    - "4517 Washington Ave. Manchester, Kentucky 39495"
+    - "Joinville/SC"
 
   contact:
-    - "trungkienspktnd@gamail.com"
-    - "207.555.0119"
+    - "contato@stockapi.com.br"
 
-  copyright: "© 2022 Up Business All Rights Reserved"
+  copyright: "© 2022 StockAPI All Rights Reserved"
 
 menus:
   main:
@@ -60,7 +58,7 @@ menus:
       weight: 5
 
   buttons:
-    - name: "Book a call"
+    - name: "Agendar ligação"
       url: "/#"
       weight: 5
       pre: "btn btn-primary text-light"
