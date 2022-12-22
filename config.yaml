@@ -20,7 +20,7 @@ params:
   favicons:
     themeColor: "#FFFFFF"
     backgroundColor: "#FFFFFF"
-    faviconColor: "#000000"
+    faviconColor: "#FFFFFF"
 
   location:
     - "Joinville/SC"
@@ -33,8 +33,8 @@ params:
 menus:
 
   buttons:
-    - name: "Agendar ligação"
-      url: "/#"
+    - name: "Entre em contato"
+      url: "mailto:contato@stockapi.com.br"
       weight: 5
       pre: "btn btn-primary text-light"
 
@@ -42,22 +42,6 @@ menus:
     - name: "Home"
       url: "/#hero"
       weight: 1
-
-    - name: "How we work"
-      url: "/#"
-      weight: 2
-
-    - name: "Our team"
-      url: "/#"
-      weight: 3
-
-    - name: "Pricing"
-      url: "/#"
-      weight: 4
-
-    - name: "Blog"
-      url: "/blog"
-      weight: 5
 
 taxonomies:
   series: "series"

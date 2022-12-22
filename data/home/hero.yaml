@@ -3,13 +3,4 @@ id: "hero"
 
 content:
   title: "**Escale** seu negócio com informações do mercado financeiro"
-  text: "Disponibilizamos uma API com dados confiáveis sobre a bolsa de valores, você pode conferir cotações e documentos publicas pelas empresas"
-
-  buttonPrimary:
-    label: "How we work"
-    url: "#"
-
-  buttonSecondary:
-    label: "Let's talk"
-    url: ""
-
+  text: "Disponibilizamos uma API com cotações e documentos confiáveis sobre a bolsa de valores em um só lugar"
