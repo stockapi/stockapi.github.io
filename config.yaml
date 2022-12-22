@@ -22,12 +22,6 @@ params:
     backgroundColor: "#FFFFFF"
     faviconColor: "#000000"
 
-  social:
-    dribbble: "#"
-    instagram: "#"
-    facebook: "#"
-    twitter: "#"
-
   location:
     - "Joinville/SC"
 
@@ -37,26 +31,6 @@ params:
   copyright: "© 2022 StockAPI All Rights Reserved"
 
 menus:
-  main:
-    - name: "Home"
-      url: "/#hero"
-      weight: 1
-
-    - name: "How we work"
-      url: "/#"
-      weight: 2
-
-    - name: "Our team"
-      url: "/#"
-      weight: 3
-
-    - name: "Pricing"
-      url: "/#"
-      weight: 4
-
-    - name: "Blog"
-      url: "/blog"
-      weight: 5
 
   buttons:
     - name: "Agendar ligação"
